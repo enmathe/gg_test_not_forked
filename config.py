@@ -1,0 +1,4 @@
+
+aws_access_key_id=AKIAIOSFODNN7EXAMPLEqsdfq
+aws_secret_access_key=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEYqsdfq
+some_key=xoxb-262594206834-FGqddMF7t14v8N45q4i67vs4
